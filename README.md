@@ -1,2 +1,2 @@
 # Dicee-Game
-A game that decides who won depending on a dice roll result.
+Dicee is a simple one-window page, which generates two dice rolls, one per player, and decides who won.
